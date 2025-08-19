@@ -15,6 +15,6 @@
 - 💽 Os: Windows 10 Pro
 - 🧠 Cpu: Intel i5 10400f
 - 🏎️ Ram: TeamGroup 16GB DDR4
-- 🖥️ Gpu: nvidia rtx 2020 OC
-- 💾 Ssd: xpg gammix 256GB
+- 🖥️ Gpu: Nvidia RTX 2060 OC
+- 💾 Ssd: XPG Gammix 256GB
 
