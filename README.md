@@ -1,16 +1,12 @@
-## Hi there 👋
+# Hi, I'm C-ERROR 👋
+😁 I love building fast & lightweight CLI apps for desktop systems 💻 (especially for Windows).
 
-<!--
-**c-error/c-error** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🔭 Currently working on: a CPU temperature sensor  
+- 🌱 Learning: C, Go, Lua  
+- ⚡ Fun fact: I enjoy making tools without any third-party libraries  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+⚙️ C, Go, Lua  
+💻 Windows (CMD / PowerShell)  
+🧩 VSCodium
