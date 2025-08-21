@@ -6,6 +6,10 @@
 - 🌱 Learning: C, Go, Lua  
 - ⚡ Fun fact: I enjoy making tools without any third-party libraries  
 
+## My Projects
+- 🗂️ **[LanDrive](https://github.com/c-error/landrive)** Fast & simple HTTP file server with built-in file upload & chat features for Windows.
+
+
 ## Tech Stack
 ⚙️ Gcc, Go, Lua  
 💻 Windows (CMD / PowerShell)  
