@@ -8,7 +8,7 @@
 
 ## My Projects
 - 🗂️ **[LanDrive](https://github.com/c-error/landrive)** Fast & simple HTTP file server with built-in file upload & chat features for Windows.
-
+- 🖨️ **[Fetch-Sama](https://github.com/c-error/fetch-sama)** A small and lightweight neofetch-like tool for Windows, written in C.
 
 ## Tech Stack
 ⚙️ Gcc, Go, Lua  
