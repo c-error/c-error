@@ -1,5 +1,5 @@
 # Hi, I'm C-ERROR 👋
-😁 I love building fast & lightweight CLI apps for desktop systems 💻 (especially for Windows).
+😁 I love building fast & lightweight CLI apps for desktop systems 💻 (specifically for Windows).
 
 ## About Me
 - 🔭 Currently working on: a CPU temperature sensor  
