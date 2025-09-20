@@ -9,7 +9,8 @@
 ## My Projects
 - 🗂️ **[LanDrive](https://github.com/c-error/landrive)** Fast & simple HTTP file server with built-in file upload & chat features for Windows.
 - 🖨️ **[Fetch-Sama](https://github.com/c-error/fetch-sama)** A small and lightweight neofetch-like tool for Windows, written in C.
-- ⚡ **[Cal](https://github.com/c-error/cal)** A simple Windows CLI calculator written in C that uses ANSI color-coded text.
+- 🎨 **[Dis-Tool](https://github.com/c-error/dis-tool)** A simple tool to control monitor color, brightness, power-off, etc.
+- 📐 **[Cal](https://github.com/c-error/cal)** A simple Windows CLI calculator written in C that uses ANSI color-coded text.
 
 ## Tech Stack
 ⚙️ Gcc, Go, Lua  
